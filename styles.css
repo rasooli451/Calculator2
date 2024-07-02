@@ -75,4 +75,5 @@ body{
     text-align: right;
     border: 2px solid red;
     height: 50%;
+    font-size: min(50px, 10vw);
 }
